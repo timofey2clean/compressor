@@ -1,0 +1,5 @@
+D:\Userdata\ttuklin\tt-code-share\Projects\test_project\MultithreadGzip\MultithreadGzip\bin\x64\Debug\GZipTest.exe.config
+D:\Userdata\ttuklin\tt-code-share\Projects\test_project\MultithreadGzip\MultithreadGzip\bin\x64\Debug\GZipTest.exe
+D:\Userdata\ttuklin\tt-code-share\Projects\test_project\MultithreadGzip\MultithreadGzip\bin\x64\Debug\GZipTest.pdb
+D:\Userdata\ttuklin\tt-code-share\Projects\test_project\MultithreadGzip\MultithreadGzip\obj\x64\Debug\GZipTest.exe
+D:\Userdata\ttuklin\tt-code-share\Projects\test_project\MultithreadGzip\MultithreadGzip\obj\x64\Debug\GZipTest.pdb
